@@ -1,0 +1,5 @@
+bash
+mkdir two-person-chat
+cd two-person-chat
+npm init -y
+npm install express socket.io
